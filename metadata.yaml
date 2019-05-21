@@ -1,0 +1,33 @@
+_repo: The-Adventures-of-Dr-Thorndyke-The-Singing-Bone_59478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, R. Austin (Richard Austin)
+    alias: Freeman, Richard Austin
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '3551'
+    url: http://www.gutenberg.org/2009/agents/3551
+    wikipedia: https://en.wikipedia.org/wiki/R._Austin_Freeman
+description: Originally published under the title of The Singing Bone.
+gutenberg_issued: '2019-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Thorndyke, Doctor (Fictitious character) -- Fiction'
+- GITenberg
+tableOfContents: The case of Oscar Brodski -- A case of premeditation -- The echo
+  of a mutiny -- A wastrel's romance -- The old lag.
+title: 'The Adventures of Dr. Thorndyke
+
+  (The Singing Bone)'
+url: http://www.gutenberg.org/ebooks/59478
